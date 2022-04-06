@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Poppins;
+}
+
+body {
+    background-image: linear-gradient(to right, #0F2027, #203A43, #2C5364);
+    background-size: cover;
+}
+
+.signup-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    color: #fff;
+}
+
+.signup-form h1 {
+    font-size: 50;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 20px 0;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.signup-form p {
+    font-size: 30;
+    margin: 15px 0;
+}
+
+.signup-form input {
+    font-size: 16px;
+    width: 100%;
+    padding: 5px 5px;
+    border: none;
+    border-radius: 5px;
+}
+
+.signup-form button {
+    padding: 10px 30px;
+    font-size: 18px;
+    border: 0;
+    border-radius: 5px;
+    margin: 0px 30%;
+    color: #fff;
+    background-color: grey;
+}
+
+.signup-form h4 {
+    font-size: 28px;
+    margin: 15px 0;
+}
+
+#btn {
+    text-decoration: none;
+}
+
+#btn:hover {
+    color: white;
+}
+
+#btn {
+    color: #31FF45;
+}

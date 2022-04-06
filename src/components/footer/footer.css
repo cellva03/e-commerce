@@ -1,0 +1,17 @@
+
+.footer-container {
+    display: flex;
+    justify-content: flex-start;
+    list-style: none;
+    /* align-items: center; */
+    text-decoration: none;
+}
+
+.footer-container>p{
+    flex-basis: 70%;
+}
+
+.anticon svg {
+    width: 30px !important;
+    height: 30px !important;
+}

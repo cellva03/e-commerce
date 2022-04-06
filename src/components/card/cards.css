@@ -1,0 +1,22 @@
+.card {
+    width: 310px !important;
+    margin: 20px 0px;
+    cursor: pointer;
+    /* height: 350px !important; */
+}
+@media only screen and (max-width: 620px){
+    .card{
+
+        position: relative !important;
+        left: 25% !important;
+    }
+}
+
+.card-img-top {
+    height: 300px !important;
+}
+
+.list-group {
+    text-align: center;
+    overflow: hidden !important;
+}

@@ -1,0 +1,56 @@
+.container {
+    /* border: 0.1px solid red; */
+    margin-top: 10px;
+}
+
+.container>nav>ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 10px;
+}
+
+.container>nav>ul>li:hover {
+    cursor: pointer;
+}
+
+.container>nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.container>nav>.search {
+    flex-grow: 0.3;
+    display: flex;
+    /* border: 1px solid blueviolet; */
+}
+
+li {
+    list-style: none;
+    margin-left: 30px;
+}
+
+input {
+    height: 30px;
+    width: 100%;
+    color: black;
+    outline: none;
+}
+
+.search>img:hover {
+    cursor: pointer;
+}
+
+.container>nav>img {
+    margin-left: 10px;
+}
+
+.links {
+    color: white;
+    text-decoration: none;
+}
+
+.links:hover {
+    color: rgb(12, 248, 248);
+}

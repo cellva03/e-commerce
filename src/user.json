@@ -1,0 +1,50 @@
+[{
+        "Product Id": 1,
+        "Product name": "Google Pixel 3",
+        "Product link": "https://images.unsplash.com/photo-1551355738-1875b6664915?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80",
+        "Product description": " 4 GB RAM , 128 GB ROM 13.97 cm(5.5 inch) Full HD + Display 12.2 MP Rear Camera | 8 MP + 8 MP Dual Front Camera 2915 mAh Battery Qualcomm Snapdragon 845 64 - bit Processor ",
+        "Product Price": 80000
+    },
+    {
+        "Product Id": 2,
+        "Product name": "Mi 10",
+        "Product link": "https://images.unsplash.com/photo-1598327106026-d9521da673d1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=654&q=80",
+        "Product description": "8 GB RAM | 256 GB ROM 16.94 cm(6.67 inch) Display 108 MP + 13 MP + 2 MP + 2 MP | 20 MP Front Camera 4780 mAh Battery Qualcomm Snapdragon 865 Processor Full HD + 3 D Curved E3 AMOLED HDR 10 + Display 30 W Charging ",
+        "Product Price": 45890
+    },
+    {
+        "Product Id": 3,
+        "Product name": "I phone 11 pro max",
+        "Product link": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "Product description": "64 GB ROM 16.51 cm(6.5 inch) Super Retina XDR Display 12 MP + 12 MP + 12 MP | 12 MP Front Camera A13 Bionic Chip Processor ",
+        "Product Price": 117100
+    },
+    {
+        "Product Id": 4,
+        "Product name": "Samsung galaxy s10",
+        "Product link": "https://images.unsplash.com/photo-1587749090881-1ea18126ab3a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "Product description": "8 GB RAM | 512 GB ROM | Expandable Up to 512 GB 15.49 cm(6.1 inch) Quad HD + Display 16 MP + 12 MP | 10 MP Front Camera 3400 mAh Lithium - ion Battery snapdragon 9820 Processor ",
+        "Product Price": 71400
+    },
+    {
+        "Product Id": 5,
+        "Product name": "Iphone 6s",
+        "Product link": "https://images.unsplash.com/photo-1551817958-20204d6ab212?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "Product description": "32 GB ROM 11.94 cm(4.7 inch) Retina HD Display 12 MP Rear Camera | 5 MP Front CameraApple A9 64 - bit processor and M9 Motion Co - processor ",
+        "Product Price": 25299
+    },
+    {
+        "Product Id": 6,
+        "Product name": "Iphone 11",
+        "Product link": "https://images.unsplash.com/photo-1571380401583-72ca84994796?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+        "Product description": "128 GB ROM 15.49 cm(6.1 inch) Liquid Retina HD Display 12 MP + 12 MP | 12 MP Front CameraA13 Bionic Chip Processor ",
+        "Product Price": 52990
+    },
+    {
+        "Product Id": 7,
+        "Product name": "SAMSUNG Galaxy Book Go",
+        "Product link": "https://imgs.search.brave.com/eG8dh3qYuJRggDioisTxis4d_vpIE4jvGIaXTuXZm6k/rs:fit:1200:1000:1/g:ce/aHR0cHM6Ly93d3cu/ZWxlY3Ryb2NpdHku/aWUvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjEvMDgvaWUtZ2Fs/YXh5LWJvb2stZ28t/bHRlLW5wMzQ1eGxh/YS1ucDM0NXhsYS1r/YjF1ay00NTcxMTEw/NzgucG5n",
+        "Product description": "Stylish & Portable Thin and Light Laptop 14 Inch Full HD TFT LED Display Light Laptop without Optical Disk Drive ",
+        "Product Price": 38940
+    }
+]
